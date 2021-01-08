@@ -166,7 +166,7 @@ To clean and build whole project (and all modules) use:
  ```
  gradlew clean build
  ```
-(Close PngExporter and WinSimulator windows to allow build to finish).
+(Close *PngExporter* and *WinSimulator* windows to allow build to finish).
 
 
 #### Desktop simulator
