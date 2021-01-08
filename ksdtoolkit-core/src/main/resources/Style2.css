@@ -1,0 +1,45 @@
+.chart-plot-background {
+    -fx-border-color: black;
+    -fx-border-width: 4px;
+    /*-fx-border-insets: -2px;*/
+    -fx-background: white;
+}
+
+.axis:top {
+    -fx-border-color: transparent;
+}
+
+.axis:right {
+    -fx-border-color: transparent;
+}
+
+.axis:bottom {
+    -fx-border-color: transparent;
+}
+
+.axis:left {
+    -fx-border-color: transparent;
+}
+
+.chart-vertical-grid-lines {
+    -fx-stroke: transparent;
+}
+
+.chart-horizontal-grid-lines {
+    -fx-stroke: transparent;
+}
+
+.chart-legend {
+    -fx-background-color:  white;
+    -fx-padding: 20px;
+}
+
+/*.chart-major-vertical-grid-lines {*/
+/*    -fx-stroke: #dddddd;*/
+/*    -fx-stroke-width: 1.0;*/
+/*}*/
+
+/*.chart-major-horizontal-grid-lines {*/
+/*    -fx-stroke: #dddddd;*/
+/*    -fx-stroke-width: 1.0;*/
+/*}*/
