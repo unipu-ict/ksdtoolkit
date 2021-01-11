@@ -17,7 +17,7 @@ language, with:
 - since 2017 Google’s preferred language for Android application development;
 
 *Kotlin* also excels in developing internal, **domain-specific language** 
-(internal DSL), which allows adapting general-purpose language (e.g. *Kotlin*) to solve problems of 
+(internal DSL), which allows adapting general-purpose language (e.g. Kotlin) to solve problems of 
 specific domain (e.g. system dynamics).
 
 *ksdtookit* consists of three modules:
@@ -160,7 +160,7 @@ are designed as **Gradle** project/modules (using *Gradle Kotlin DSL*). Therefor
 clean, build, test and run project/modules. 
 
 To run Gradle tasks, from IntelliJ one can use *Terminal window* (be in the root path where *gradlew* file is located). 
-(Instead of Terminal, an alternative is to install and use Gradle Plugin in IntelliJ.)
+(Instead of Terminal window, an alternative is to install and use Gradle Plugin in IntelliJ.)
 
 To clean and build whole project (and all modules) use:
  ```
