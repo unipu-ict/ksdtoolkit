@@ -156,7 +156,7 @@ init {
 
 Whole *ksdtoolkit* project and all three project modules (*ksdtoolkit-core*, *ksdtoolkit-mobapp*, *ksdtoolkit-webapp*) 
 are designed as **Gradle** project/modules (using *Gradle Kotlin DSL*). Therefore, use **Gradlew Wrapper** 
-(*gradlew* in Windows or *./gradlew* in Linux/Mac) for 
+(*gradlew* in Windows or *./gradlew* in Linux/Mac) to 
 clean, build, test and run project/modules. 
 
 To run Gradle tasks, from IntelliJ one can use *Terminal window* (be in the root path where *gradlew* file is located). 
