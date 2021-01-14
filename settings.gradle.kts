@@ -33,6 +33,9 @@ pluginManagement {
             if (requested.id.namespace == "com.google.gms") {
                 useModule("com.google.gms:${requested.id.name}:${requested.version}")
             }
+            if (requested.id.namespace == "org.openjfx.javafxplugin") {
+                useModule("org.openjfx.javafx-plugin:${requested.version}")
+            }
             if (requested.id.id.startsWith("org.jetbrains.kotlin")) {
                 useVersion("${kotlinVersion}")
             }
