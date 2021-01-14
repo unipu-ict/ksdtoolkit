@@ -151,6 +151,15 @@ init {
 }
 ```
 
+## Built With
+
+* [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) - Integrated development environment
+* [OpenJDK 11](https://en.wikipedia.org/wiki/OpenJDK#OpenJDK_builds) - Open Java development kit
+* [OpenJFX](https://openjfx.io/) - Open JavaFX
+* [Gradle](https://gradle.org/) - Dependency management & build automation tool
+* [Vaadin](https://vaadin.com/) - Vaadin web framework
+* [Android SDK](https://developer.android.com/) - Android software development kit
+
 
 ## Testing
 
