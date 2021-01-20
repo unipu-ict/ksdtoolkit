@@ -163,7 +163,7 @@ class PngExporterApp : Application() {
             isXAxis = true
         )
 
-        lineChart.title = title
+        //lineChart.title = title
         return lineChart
     }
 

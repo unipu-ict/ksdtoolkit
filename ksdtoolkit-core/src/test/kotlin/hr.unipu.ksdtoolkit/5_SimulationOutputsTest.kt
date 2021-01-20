@@ -32,11 +32,11 @@ class `5_SimulationOutputsTest` {
     init {
 
         // 1-3. Create the model
-        model = ModelGenericSD()
+        //model = ModelGenericSD()
         //model = ModelSimpleCompoundInterest()
         //model = ModelInheritedCompoundInterest()
         //model = ModelBassDiffusion()
-        //model = ModelInnovationDiffusion()
+        model = ModelInnovationDiffusion()
         //model = ModelTestSpeed()
 
 
@@ -108,7 +108,7 @@ class `5_SimulationOutputsTest` {
         val values = simulation.model.modelEntitiesValues
         for ((index,value) in values.withIndex()) {
             // Quick & dirty to replace decimal point format from "," to "."
-            assertThat(PngExporterApp.series[index].data[0].yValue.toString().replace(",",".").toDouble(),
+            assertThat(PngExporterApp.series[index].data.last().yValue.toString().replace(",",".").toDouble(),
                 `is`(closeTo(value.replace(",",".").toDouble(), 0.001)))
         }
 
