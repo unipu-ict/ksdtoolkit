@@ -219,17 +219,17 @@ The mobile simulator will be automatically launched.
  - **Krešimir Pripužić**<sup>2</sup> <kresimir.pripuzic@fer.hr>
  
 <sup>1 = Juraj Dobrila University of Pula, Faculty of Informatics, HR-52100 Pula, CROATIA </sup>  \
-<sup>2 = University of Zagreb, Faculty of Electrical Engineering and Computing, HR-10000 Zagreb, CROATIA </sup> 
-
-
-## License
-This project is licensed under the Apache License 2.0 license. See the [LICENSE](LICENSE) file for details.
+<sup>2 = University of Zagreb, Faculty of Electrical Engineering and Computing, HR-10000 Zagreb, CROATIA </sup>
 
 
 ## References
 1. Sovilj, S., Etinger, D., Sirotić, Z. and Pripužić, K. (2021), 
 System dynamics modeling and simulation with Kotlin. 
 *System Dynamics Review*, 37: 227-240. https://doi.org/10.1002/sdr.1686
+
+
+## License
+This project is licensed under the Apache License 2.0 license. See the [LICENSE](LICENSE) file for details.
 
 
 ## Acknowledgments
