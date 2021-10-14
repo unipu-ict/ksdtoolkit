@@ -226,6 +226,12 @@ The mobile simulator will be automatically launched.
 This project is licensed under the Apache License 2.0 license. See the [LICENSE](LICENSE) file for details.
 
 
+## References
+1. Sovilj, S., Etinger, D., Sirotić, Z. and Pripužić, K. (2021), 
+System dynamics modeling and simulation with Kotlin. 
+*System Dynamics Review*, 37: 227-240. https://doi.org/10.1002/sdr.1686
+
+
 ## Acknowledgments
 Kotlin SD Toolkit was inspired by the great work of:
 * Drost & Stein - [System Dynamics Java-Framework](https://github.com/matthiasstein/SystemDynamics-Framework),
