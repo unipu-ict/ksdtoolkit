@@ -1,6 +1,6 @@
 # Kotlin System Dynamics Toolkit
 
-**Kotlin SD Toolkit** or *ksdtookit* is a tool suitable for both: 
+**Kotlin SD Toolkit** or *ksdtoolkit* is a tool suitable for both: 
 - modelling larger, hierarchical **system dynamics** (SD) models 
 (supporting modules) and 
 - for automatic generation of **interactive simulators** for multiple 
